@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Zoom from 'react-reveal/Zoom';
 import Modal from 'react-modal';
 import Rating from './rating';
-import CheckOut from './checkOut';
+import CheckOut from './checkout';
 
 Modal.setAppElement('#root');
 
